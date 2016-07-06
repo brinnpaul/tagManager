@@ -1,0 +1,49 @@
+body {
+  padding-top: 50px;
+  }
+#datatables {
+  margin-top:40px;
+  margin-bottom: 50px;
+}
+/*#datatables td {
+  max-width: 400px;
+  max-height: 100px;
+}*/
+.selected {
+  border: 1px solid #888;
+  background-color: #white;
+}
+#addTag {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#addTagBottom {
+  margin-top: 20px;
+  margin_bottom: 20px;
+}
+#archiveModal {
+  margin-top: 100px;
+}
+.input-group-addon {
+  min-width: 100px;
+}
+.btn {
+  margin-bottom: 15px;
+}
+.selected {
+  border: 1px solid #888;
+  background-color: #white;
+}
+.archivedtable {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#header {
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+  margin-bottom: 30px;
+  position: relative;
+}
+.tableContainer {
+  margin:0 5%;
+}
